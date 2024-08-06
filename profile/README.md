@@ -1,3 +1,3 @@
 > Note that IE is in working progress, including its JavaScript runtime and its MXML compiler.
 
-![squarepresent](https://github.com/user-attachments/assets/3ab1e887-9121-4295-897b-5f850fa51ee7)
+<img src="https://github.com/user-attachments/assets/b4f35490-2bbf-4909-b087-a58ed2095666" width="350" alt="square present">
